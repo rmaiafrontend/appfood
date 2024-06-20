@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "nome_da_categoria": "Todos"
+  },
+  {
+    "id": 1,
+    "nome_da_categoria": "Vestuário",
+    "descrição": "Roupas e acessórios de moda para homens, mulheres e crianças, incluindo camisas, calças, blusas e mais."
+  },
+  {
+    "id": 2,
+    "nome_da_categoria": "Utensílios",
+    "descrição": "Ferramentas e utensílios para uso doméstico e culinário, como panelas, talheres, facas e outros itens de cozinha."
+  },
+  {
+    "id": 3,
+    "nome_da_categoria": "Panos de Mesa",
+    "descrição": "Toalhas de mesa, jogos americanos e outros itens de tecido para a decoração e proteção de mesas."
+  },
+  {
+    "id": 4,
+    "nome_da_categoria": "Decoração",
+    "descrição": "Objetos decorativos para a casa, incluindo vasos, quadros, relógios, e outros itens para embelezar ambientes."
+  }
+]
