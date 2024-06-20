@@ -15,10 +15,12 @@ const ProductInfo = () => {
 
   return (
     <>
-      {/* Passe o ID e os dados do produto para os componentes */}
+      <div className="max-w-4xl	mx-auto ]">
+        {/* Passe o ID e os dados do produto para os componentes */}
 
-      <ProductImage productId={product.id} productImage={product.imagem} />
-      <ProductDetails id={product.id} nome={product.nome_do_produto} preco={product.preço} desconto={product.desconto} descricao={product.descrição} imagem={product.imagem} />
+        <ProductImage productId={product.id} productImage={product.imagem} />
+        <ProductDetails id={product.id} nome={product.nome_do_produto} preco={product.preço} desconto={product.desconto} descricao={product.descrição} imagem={product.imagem} />
+      </div>
     </>
   );
 };
