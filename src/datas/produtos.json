@@ -6,7 +6,7 @@
     "desconto": 10.0,
     "descrição": "Camisa polo de algodão, disponível em várias cores. Ideal para uso casual ou semi-formal, proporcionando conforto e estilo.",
     "categoria": "Vestuário",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/1.webp"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "desconto": 30.0,
     "descrição": "Jogo de panelas antiaderentes com 5 peças. Perfeito para quem busca praticidade e qualidade na cozinha.",
     "categoria": "Utensílios",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/2.webp"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "desconto": 0.0,
     "descrição": "Toalha de mesa com estampa floral, fabricada em tecido resistente e fácil de lavar. Ideal para dar um toque de elegância à sua mesa.",
     "categoria": "Panos de mesa",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/3.webp"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "desconto": 15.0,
     "descrição": "Vaso decorativo feito à mão, perfeito para embelezar qualquer ambiente da sua casa. Disponível em várias cores e tamanhos.",
     "categoria": "Decoração",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/5.webp"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "desconto": 20.0,
     "descrição": "Calça jeans slim fit de alta qualidade, proporcionando conforto e estilo. Disponível em várias lavagens.",
     "categoria": "Vestuário",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/5.webp"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "desconto": 5.0,
     "descrição": "Conjunto de talheres inox com 24 peças. Perfeito para jantares e ocasiões especiais, combinando durabilidade e elegância.",
     "categoria": "Utensílios",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/6.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "desconto": 0.0,
     "descrição": "Jogo americano de linho com 4 peças, ideal para proteger e decorar a sua mesa. Disponível em diversas cores.",
     "categoria": "Panos de Mesa",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/7.webp"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "desconto": 25.0,
     "descrição": "Quadro decorativo com arte abstrata, perfeito para dar um toque moderno e sofisticado ao seu ambiente.",
     "categoria": "Decoração",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/8.webp"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "desconto": 10.0,
     "descrição": "Blusa de tricô macia e aconchegante, perfeita para os dias mais frios. Disponível em diversas cores.",
     "categoria": "Vestuário",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/9.webp"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "desconto": 20.0,
     "descrição": "Faqueiro completo em aço inox com 42 peças, ideal para jantares e ocasiões especiais. Alta durabilidade e acabamento impecável.",
     "categoria": "Utensílios",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/10.webp"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "desconto": 5.0,
     "descrição": "Toalha de mesa com estampa xadrez, ideal para um ambiente mais rústico e acolhedor. Fácil de lavar e resistente.",
     "categoria": "Panos de Mesa",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/11.webp"
   },
   {
     "id": 12,
@@ -105,6 +105,6 @@
     "desconto": 20.0,
     "descrição": "Relógio de parede estilo vintage, perfeito para decorar salas de estar ou cozinhas. Combina funcionalidade e estilo retrô.",
     "categoria": "Decoração",
-    "imagem": "https://acdn.mitiendanube.com/stores/003/135/463/products/camiseta-estonada-nordeste-qualidade-algodao-penteado-barata-praias-sertao-cuscuz-hh-9181db0f1d2d907ffd17133808724646-1024-1024.webp"
+    "imagem": "/12.webp"
   }
 ]
