@@ -1,6 +1,6 @@
-# Catálogo do Artesão
+# AppFood - Catálogo de produtos
 
-Bem-vindo ao repositório do Catálogo do Artesão! Este projeto é um webapp desenvolvido com React e Tailwind CSS, que apresenta uma coleção de produtos artesanais.
+Bem-vindo ao repositório do FoodApp! Este projeto é um webapp (mobile first) desenvolvido com React e Tailwind CSS, que apresenta um catálogo de produtos alimentícios.
 
 ## Funcionalidades
 
