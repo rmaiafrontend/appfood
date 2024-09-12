@@ -5,22 +5,57 @@
   },
   {
     "id": 1,
-    "nome_da_categoria": "Vestuário",
-    "descrição": "Roupas e acessórios de moda para homens, mulheres e crianças, incluindo camisas, calças, blusas e mais."
+    "nome_da_categoria": "Pizzas",
+    "descrição": "Variedades de pizzas, desde as mais tradicionais até sabores especiais."
   },
   {
     "id": 2,
-    "nome_da_categoria": "Utensílios",
-    "descrição": "Ferramentas e utensílios para uso doméstico e culinário, como panelas, talheres, facas e outros itens de cozinha."
+    "nome_da_categoria": "Lanches",
+    "descrição": "Lanches rápidos, incluindo hambúrgueres, sanduíches e porções."
   },
   {
     "id": 3,
-    "nome_da_categoria": "Panos de Mesa",
-    "descrição": "Toalhas de mesa, jogos americanos e outros itens de tecido para a decoração e proteção de mesas."
+    "nome_da_categoria": "Comida Japonesa",
+    "descrição": "Pratos típicos da culinária japonesa, como sushi e sashimi."
   },
   {
     "id": 4,
-    "nome_da_categoria": "Decoração",
-    "descrição": "Objetos decorativos para a casa, incluindo vasos, quadros, relógios, e outros itens para embelezar ambientes."
+    "nome_da_categoria": "Pratos Prontos",
+    "descrição": "Refeições completas, prontas para consumo, com pratos típicos de várias culinárias."
+  },
+  {
+    "id": 5,
+    "nome_da_categoria": "Saladas",
+    "descrição": "Opções saudáveis de saladas frescas e nutritivas."
+  },
+  {
+    "id": 6,
+    "nome_da_categoria": "Mexicana",
+    "descrição": "Pratos da culinária mexicana, como tacos, burritos e guacamole."
+  },
+  {
+    "id": 7,
+    "nome_da_categoria": "Sobremesas",
+    "descrição": "Doces e sobremesas, desde sorvetes até opções mais elaboradas."
+  },
+  {
+    "id": 8,
+    "nome_da_categoria": "Acompanhamentos",
+    "descrição": "Acompanhamentos que complementam os pratos principais, como batatas fritas e molhos."
+  },
+  {
+    "id": 9,
+    "nome_da_categoria": "Salgados",
+    "descrição": "Salgados típicos, como coxinhas, pastéis e outros."
+  },
+  {
+    "id": 10,
+    "nome_da_categoria": "Massas",
+    "descrição": "Pratos à base de massas, como lasanha, espaguete e mais."
+  },
+  {
+    "id": 11,
+    "nome_da_categoria": "Bebidas",
+    "descrição": "Bebidas variadas, incluindo sucos, refrigerantes e outras opções refrescantes."
   }
 ]

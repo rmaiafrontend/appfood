@@ -7,7 +7,7 @@ const ProductItem = ({ id, nome, preco, desconto, image }) => {
   return (
     <Link to={`/product/${id}`} className="min-w-[150px]">
       <div className="w-full space-y-2">
-        <div className={`relative aspect-square w-full bg-cover bg-no-repeat bg-center bg-w-full`} style={{ backgroundImage: `url(${image})` }}>
+        <div className={`relative aspect-square w-full bg-cover bg-no-repeat bg-center bg-w-full rounded-md`} style={{ backgroundImage: `url(${image})` }}>
           <div className="absolute left-2 top-2 flex items-center gap-[2px] rounded-full bg-primary px-2 py-[2px] text-white">
             <span className="text-xs font-semibold">Baixou</span>
             <ArrowDownIcon size={12} />

@@ -44,7 +44,7 @@ export function CategoryList({ onCategoryClick }) {
     <div className="">
       <Slider {...settings}>
         {categorias.map((category) => (
-          <CategoryItem key={category.id} nomeCategoria={category.nome_da_categoria} onClick={() => onCategoryClick(category.nome_da_categoria)} />
+          <CategoryItem key={category.id} nomeCategoria={category.nome_da_categoria} onClick={() => onCategoryClick(category.id)} />
         ))}
       </Slider>
     </div>

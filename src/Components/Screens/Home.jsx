@@ -52,7 +52,7 @@ export function Home() {
         {/* Banner Promoção */}
         <div className="px-5 pt-6">
           <a>
-            <PromoBanner src="/banner-pizza.svg" />
+            <PromoBanner src="/banner-burger.svg" />
           </a>
         </div>
 

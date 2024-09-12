@@ -8,7 +8,7 @@ export function ListProdutos() {
   const [categoriaSelecionada, setCategoriaSelecionada] = useState(null);
 
   const handleCategoryClick = (categoria) => {
-    setCategoriaSelecionada(categoria === "Todos" ? null : categoria);
+    setCategoriaSelecionada(categoria === 0 ? null : categoria);
   };
 
   const produtosFiltrados = categoriaSelecionada ? produtos.filter((produto) => produto.categoria === categoriaSelecionada) : produtos;
