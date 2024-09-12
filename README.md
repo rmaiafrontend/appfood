@@ -1,6 +1,7 @@
-# AppFood - Catálogo de produtos
+# AppFood - Catálogo de produtos - Mobile First
 
 Bem-vindo ao repositório do FoodApp! Este projeto é um webapp (mobile first) desenvolvido com React e Tailwind CSS, que apresenta um catálogo de produtos alimentícios.
+**Deploy**: https://appfood-rmaia.netlify.app/
 
 ## Funcionalidades
 
